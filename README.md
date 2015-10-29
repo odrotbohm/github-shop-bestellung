@@ -4,3 +4,5 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 
  - Kilian:
   - [Invertocat Hoodie](https://github.myshopify.com/products/invertocat-hoodie) 1x
+ - Hair Steigr:
+  - [Invertocat 2.0](https://github.myshopify.com/products/invertocat-2-0) 1x
