@@ -6,3 +6,7 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
   - [Invertocat Hoodie](https://github.myshopify.com/products/invertocat-hoodie) [Größe?] 1x
  - Hair Steigr:
   - [Invertocat 2.0](https://github.myshopify.com/products/invertocat-2-0) [Größe?] 1x
+- Justus:
+  - [Arctocat](https://github.myshopify.com/products/arctocat) [mens small] 1x
+  - [Atom and Electron Sticker Pack](https://github.myshopify.com/products/atom-and-electron-sticker-pack) 1x
+  - [GitHub username shirt](https://github.myshopify.com/products/github-username-shirt) [mens small olive] 1x
