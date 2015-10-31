@@ -6,3 +6,6 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
   - [Invertocat Hoodie](https://github.myshopify.com/products/invertocat-hoodie) [Größe?] 1x
  - Hair Steigr:
   - [Invertocat 2.0](https://github.myshopify.com/products/invertocat-2-0) [Größe?] 1x
+ - Hoodie:
+  - [Piratocat Shirt](https://github.myshopify.com/products/piratocat-shirt) [M] 1x
+  - [Die Cut GitHub Stickers](https://github.myshopify.com/products/die-cut-github-stickers) 1x
