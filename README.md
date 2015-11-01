@@ -20,3 +20,5 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 | | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | n/a | 1 |
 | Sascha | [Arctocat](https://github.myshopify.com/products/arctocat) | Men XL | 1 |
 | | [Invertocat 2.0](https://github.myshopify.com/products/invertocat-2-0) | Men XL| 1 |
+| Stephan | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | n/a | 1 |
+| | [Sticker Pack 3](https://github.myshopify.com/products/octodex-sticker-packs) | n/a| 1 |
