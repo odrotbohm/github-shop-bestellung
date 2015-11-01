@@ -18,3 +18,5 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 | Felix W. | [Invertocat Hoodie](https://github.myshopify.com/products/invertocat-hoodie) | Medium | 1 |
 | | [Atom and Electron Sticker Pack](https://github.myshopify.com/products/atom-and-electron-sticker-pack) | n/a |  1 |
 | | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | n/a | 1 |
+| Sascha | [Arctocat](https://github.myshopify.com/products/arctocat) | Men XL | 1 |
+| | [Invertocat 2.0](https://github.myshopify.com/products/invertocat-2-0) | Men XL| 1 |
