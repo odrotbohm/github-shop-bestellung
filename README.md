@@ -12,4 +12,6 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 | | [Atom and Electron Sticker Pack](https://github.myshopify.com/products/atom-and-electron-sticker-pack) |  |  1 |
 | | [GitHub username shirt](https://github.myshopify.com/products/github-username-shirt) | mens small olive | 1 |
 | Hoodie | [Piratocat Shirt](https://github.myshopify.com/products/piratocat-shirt) | mens medium | 1 |
-| | [Die Cut GitHub Stickers](https://github.myshopify.com/products/die-cut-github-stickers) | | 1
+| | [Die Cut GitHub Stickers](https://github.myshopify.com/products/die-cut-github-stickers) | | 1 |
+| Felix | [Octocat Laptop Decal](https://github.myshopify.com/products/octocat-laptop-decal) | | 1 |
+| | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | | 1 |
