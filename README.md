@@ -23,4 +23,4 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 | Stephan | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | n/a | 1 |
 | | [Sticker Pack 3](https://github.myshopify.com/products/octodex-sticker-packs) | n/a| 1 |
 | Philipp | [Atom Coasters (solid)](https://github.myshopify.com/products/atom-coasters) | | 1 |
-| Lucas V. | [Sticker Pack 1](https://github.myshopify.com/products/octodex-sticker-packs) | n/a| 1 |
+| Lucas V. | [Octicons Shirt](http://github.myshopify.com/products/octicons-shirt) | mens medium| 1 |
