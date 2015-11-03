@@ -13,8 +13,7 @@ Wer was haben will, bitte Namen unten anfügen und genaue Beschreibung was wie o
 | | [GitHub username shirt](https://github.myshopify.com/products/github-username-shirt) | mens small olive | 1 |
 | Hoodie | [Piratocat Shirt](https://github.myshopify.com/products/piratocat-shirt) | mens medium | 1 |
 | | [Die Cut GitHub Stickers](https://github.myshopify.com/products/die-cut-github-stickers) | | 1 |
-| Felix D. | [Octocat Laptop Decal](https://github.myshopify.com/products/octocat-laptop-decal) | | 1 |
-| | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | | 1 |
+| Felix D. | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | | 1 |
 | Felix W. | [Invertocat Hoodie](https://github.myshopify.com/products/invertocat-hoodie) | Medium | 1 |
 | | [Atom and Electron Sticker Pack](https://github.myshopify.com/products/atom-and-electron-sticker-pack) | n/a |  1 |
 | | [Black GitHub Mug](https://github.myshopify.com/products/github-mug) | n/a | 1 |
